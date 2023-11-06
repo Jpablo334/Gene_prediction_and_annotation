@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    flye_ont_assem_coli  raven_ont_assem_coli  velveth_illu_assem_coli  wengan_ont_assem_coli
+# contigs (>= 0 bp)         2                    1                     790                      1                    
+# contigs (>= 1000 bp)      2                    1                     350                      1                    
+# contigs (>= 5000 bp)      2                    1                     244                      1                    
+# contigs (>= 10000 bp)     2                    1                     156                      1                    
+# contigs (>= 25000 bp)     2                    1                     47                       1                    
+# contigs (>= 50000 bp)     1                    1                     10                       1                    
+Total length (>= 0 bp)      4635205              4590008               4563989                  4641171              
+Total length (>= 1000 bp)   4635205              4590008               4495951                  4641171              
+Total length (>= 5000 bp)   4635205              4590008               4217486                  4641171              
+Total length (>= 10000 bp)  4635205              4590008               3540850                  4641171              
+Total length (>= 25000 bp)  4635205              4590008               1864419                  4641171              
+Total length (>= 50000 bp)  4594744              4590008               587899                   4641171              
+# contigs                   2                    1                     372                      1                    
+Largest contig              4594744              4590008               71245                    4641171              
+Total length                4635205              4590008               4511799                  4641171              
+GC (%)                      51.18                51.07                 50.74                    50.79                
+N50                         4594744              4590008               19872                    4641171              
+N90                         4594744              4590008               6908                     4641171              
+auN                         4554989.4            4590008.0             25281.8                  4641171.0            
+L50                         1                    1                     65                       1                    
+L90                         1                    1                     218                      1                    
+# N's per 100 kbp           0.00                 0.00                  0.00                     0.00                 
